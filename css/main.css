@@ -26,3 +26,14 @@
   color: #fff;
 }
 
+.panel {
+  display: none;
+}
+
+.panel:target {
+  display: block;
+}
+
+img {
+  width: 100%;
+}
