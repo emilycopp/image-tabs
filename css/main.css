@@ -1,0 +1,28 @@
+.buttons {
+  text-align: center;
+  margin: 0;
+  list-style-type: none;
+}
+
+.buttons li {
+  display: inline-block;
+}
+
+.buttons a {
+  display: inline-block;
+  background-color: #fff;
+  color: #000;
+  text-decoration: none;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  border-color: #646464;
+  border-style: solid;
+  border-width: 4px;
+}
+
+.buttons a:hover {
+  background-color: #646464;
+  color: #fff;
+}
+
